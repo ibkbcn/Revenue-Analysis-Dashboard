@@ -5,7 +5,7 @@ Análisis del desempeño operativo enfocado en la consecución de objetivos anua
 * **Progreso de Facturación vs. Objetivos:** Seguimiento de ingresos frente a metas de 2021 y 2022.
 * **Valor Promedio por Transacción:** Monitoreo del importe medio generado por venta.
 * **Censo Total de Empresas Cliente:** Recuento de organizaciones cliente clasificadas por geografía.
-* **Volumen Mensual de Ventas y Devoluciones:** Desglose por mes de la facturación total y del volumen de devoluciones.
+* **Volumen Mensual de Ventas y Operaciones Declinadas:** Desglose por mes de la facturación total y del volumen de operaciones declinadas.
 
 <p align="center">
   <img width="1307" height="737" alt="Captura de pantalla 2025-10-08 231409" src="https://github.com/user-attachments/assets/7da6de7a-f2bf-45f0-b838-b9233e6b1160" style="margin-bottom: 40px;" />
