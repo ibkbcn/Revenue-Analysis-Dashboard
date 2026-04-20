@@ -9,7 +9,7 @@ Pipeline completo de análisis de ventas: desde la modelización relacional en M
 
 ## Contexto del Proyecto
 
-Dataset de transacciones financieras multi-país (EE.UU., Canadá, Reino Unido) con datos de empresas cliente, tarjetas de crédito, usuarios y productos. El objetivo era construir una base de datos analítica desde cero y habilitar el seguimiento de KPIs comerciales a través de un dashboard ejecutivo.
+Transacciones financieras con datos de empresas cliente, tarjetas de crédito, usuarios y productos distribuidos en archivos CSV separados por país (EE.UU., Canadá, Reino Unido).
 
 ---
 
@@ -149,8 +149,8 @@ Segmentación de usuarios finales, distribución geográfica y análisis de ingr
 |---|---|
 | MySQL | Modelado relacional, ingesta de datos, consultas analíticas |
 | SQL (JOINs, subqueries, GROUP BY, DATE functions) | Análisis y transformación de datos |
-| Power BI | Visualización, star schema, KPIs |
-| DAX (CALCULATE, AVERAGE, STDEV.P, RELATEDTABLE) | Medidas analíticas y condicionales |
+| Power BI | Visualización, modelo estrella y diseño del dashboard |
+| DAX (CALCULATE, AVERAGE, STDEV.P, RELATEDTABLE) | Cálculo de KPIs, métricas estadísticas y filtros de negocio |
 | Power Query | ETL y conexión MySQL → Power BI |
 
 ---
