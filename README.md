@@ -17,7 +17,7 @@ CSVs multi-país (US / CA / UK)
 │  MySQL — Sprint  │  Modelado relacional, limpieza, FK constraints
 │  2, 3 y 4        │  ALTER TABLE, STR_TO_DATE, LOAD DATA INFILE
 └────────┬─────────┘
-         │ Star Schema
+         │
          ▼
 ┌──────────────────┐
 │  Power BI        │  Modelo estrella, DAX measures, KPIs
