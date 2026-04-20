@@ -7,12 +7,6 @@ Pipeline completo de análisis de ventas: desde la modelización relacional en M
 
 ---
 
-## Contexto del Proyecto
-
-Transacciones financieras con datos de empresas cliente, tarjetas de crédito, usuarios y productos distribuidos en archivos CSV separados por país (EE.UU., Canadá, Reino Unido).
-
----
-
 ## Arquitectura
 
 ```
