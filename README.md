@@ -21,7 +21,7 @@ CSVs multi-país (US / CA / UK)
          ▼
 ┌──────────────────┐
 │  Power BI        │  Modelo estrella, DAX measures, KPIs
-│  Sprint 5        │  3 niveles: overview, cartera, comportamiento usuario
+│  Sprint 5        │  Visión general · Análisis de clientes y mercado
 └──────────────────┘
 ```
 
