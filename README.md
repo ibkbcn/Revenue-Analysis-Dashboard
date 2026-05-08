@@ -129,8 +129,8 @@ Segmentación de usuarios finales, distribución geográfica y análisis de ingr
 
 ## Hallazgos Clave
 
-- **Canadá representa el 52% de los ingresos** con solo el 40% de los usuarios — mayor ticket medio por cliente que EE.UU. y UK
-- **La totalidad de las operaciones declinadas provienen de Canadá** (21.200€), señalando un riesgo de fraude geográficamente concentrado
+- **Canadá representa el 52% de los ingresos** con solo el 40% de los usuarios (mayor ticket medio por cliente que EE.UU. y UK)
+- **La totalidad de las operaciones declinadas provienen de Canadá** (21.200€)
 - **Q1 2022 alcanzó 22.000€** acercándose al objetivo anual de 25.000€ en solo 3 meses
 - **2021 cumplió el objetivo de ticket medio de 250€** (251€); en 2022 no se alcanzó (promedio 204€ en los meses disponibles)
 - **Objetivo de operaciones declinadas (<10/mes)**: superado únicamente entre abril y junio de 2021
